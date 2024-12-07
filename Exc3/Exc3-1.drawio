@@ -1,0 +1,68 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1114" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-0" value="Mobile APP&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-1" value="Smart Home Partner Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-2" value="&lt;div&gt;API Gateway&lt;br&gt;Prop Development&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-Dg_FMZNNHoTrlqX5Ny-0" target="w-Dg_FMZNNHoTrlqX5Ny-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-11" value="API Requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w-Dg_FMZNNHoTrlqX5Ny-3">
+          <mxGeometry x="0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-4" value="Smart Intercom API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-Dg_FMZNNHoTrlqX5Ny-1" target="w-Dg_FMZNNHoTrlqX5Ny-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-6" value="Smart Barrier API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-Dg_FMZNNHoTrlqX5Ny-6" target="w-Dg_FMZNNHoTrlqX5Ny-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="500" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-Dg_FMZNNHoTrlqX5Ny-4" target="w-Dg_FMZNNHoTrlqX5Ny-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-9" value="&lt;div&gt;Core DB&lt;br&gt;Prop&lt;br&gt;Development&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w-Dg_FMZNNHoTrlqX5Ny-2" target="w-Dg_FMZNNHoTrlqX5Ny-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="490" as="sourcePoint" />
+            <mxPoint x="90" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-Dg_FMZNNHoTrlqX5Ny-12" value="API Requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w-Dg_FMZNNHoTrlqX5Ny-10">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
